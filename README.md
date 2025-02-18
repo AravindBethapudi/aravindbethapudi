@@ -17,48 +17,40 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 ---
 
-<h2>📚 Courses & Certifications 📜:</h2>
-
-✅ **IBM Data Science Professional Certificate**  
-✅ **IBM Machine Learning Certificate**  
-✅ **IBM Data Visualization Certificate**  
-✅ **Deep Learning Specialization – Andrew Ng**  
-✅ **Machine Learning by Stanford University**  
-
----
-
-<h2> 🤖 Machine Learning & AI Models Used: </h2>
-
-💡 **Supervised & Unsupervised Learning Models:**
-- Linear & Logistic Regression, SVM, Decision Trees, Random Forest, KNN
-- Gradient Boosting (XGBoost, LightGBM), Naive Bayes, PCA, t-SNE
-
-💡 **Deep Learning Models:**
-- **Neural Networks** (ANN, CNN, RNN, LSTMs)
-- **Transformers** (BERT, GPT-3, GPT-4, Mixtral)
-- **LLM Development** (Retrieval Augmented Generation, LangChain)
-
-💡 **Time Series Forecasting Models:**
-- **ARIMA, SARIMA, Prophet, LSTM-based forecasting**
-- **Neural Hierarchical Interpolation (N-HiTS), Seasonal Forecasting**
-
----
-
 <h2> 🛠️ My Skills & Tech Stack: </h2>
 
-### **Programming & Data**
+### **🚀 Generative AI & LLMs**
+✅ **Mastering Generative AI & LLMs – Completed Week 3**  
+✅ **Worked with 6+ Leading Frontier Models** (GPT-4, Mixtral, Llama 2, Claude, Gemini)  
+✅ **Developed AI-powered applications using Generative AI**  
+✅ **Implementing Retrieval-Augmented Generation (RAG)**  
+✅ **Building AI tools that generate meeting minutes & action items**  
+
+### **📦 AI Frameworks & Tools**
+✅ **LangChain** – LLM Pipelines & Memory  
+✅ **Gradio** – UI for AI Applications  
+✅ **Hugging Face Transformers** – Open-Source Model Integration  
+✅ **OpenAI API** – Model Interaction  
+
+### **📝 NLP & AI Tasks You’ve Worked On**
+✅ **Text Generation & Summarization**  
+✅ **Question Answering (QA) Systems**  
+✅ **Meeting Notes & Action Items Extraction**  
+✅ **Multi-Modal AI (Text, Image, Audio Processing)**  
+
+### **🔧 Programming & Data**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### **Machine Learning & AI**
+### **🤖 Machine Learning & AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### **Big Data & Cloud**
+### **☁️ Cloud & Big Data**
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
