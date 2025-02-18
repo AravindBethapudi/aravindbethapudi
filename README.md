@@ -120,7 +120,7 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 | 🚗 Used Car Recommendation | 🚀 SpaceX Falcon 9 Landing Prediction |
 | :-: | :-: |
 | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/used%20car.jpg?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/falcon.jpg?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Falcon) |
-| [🔗 View Project](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [🔗 Try It Live](https://github.com/AravindBethapudi/Falcon) |
+| [🔗 View Project](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [🔗 View Project](https://github.com/AravindBethapudi/Falcon) |
 
 ---
 
@@ -129,7 +129,7 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 | 🎙️ Speech-to-Text Meeting Minutes | 🏋️ Personalized Fitness Planner |
 | :-: | :-: |
 | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Speech%20to%20text.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Fitness.jpg?raw=true" width="500" height="300"/>](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) |
-| [🔗 View Project](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) | [🔗 Try It Live](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) |
+| [🔗 Try It Live](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) | [🔗 Try It Live](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) |
 
 
 ---
