@@ -130,7 +130,9 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 | 🎙️ [Speech-to-Text Meeting Minutes](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |  
 | :-:| :-:|  
-| [<img src = "https://github.com/AravindBethapudi/Meeting-Minutes-Generator/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
+| [<img src = "
+https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Fitness.jpg?raw=true
+" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
 
 
 ---
