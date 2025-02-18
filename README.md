@@ -118,9 +118,9 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2>
 
-| 🚀 [Chronic Disease Prediction](https://github.com/AravindBethapudi/chronic-disease-prediction) | 🎯 [Personalized Fitness Planner](https://github.com/AravindBethapudi/personalized-fitness-planner) |  
+| 🚀 [Used Car Recommendation](https://github.com/AravindBethapudi/Used-Car-Recommendation) | 
 | :-:| :-:|  
-| [<img src = "https://github.com/AravindBethapudi/chronic-disease-prediction/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/chronic-disease-prediction) | [<img src = "https://github.com/AravindBethapudi/personalized-fitness-planner/blob/main/images/project.jpg" width = 500 height = 300/>](https://huggingface.co/spaces/aravindbethapudi2017/Personalized-Fitness-Planner) |
+| [<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hagerty.com%2Fmedia%2Fdriving%2F5-new-sports-cars-gas-engine-manual-keep-faith%2F&psig=AOvVaw3cEQd0ymSE-NQ_4UUgu2sW&ust=1739931365042000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiFn82TzIsDFQAAAAAdAAAAABAE" width = 500 height = 300/>](https://github.com/AravindBethapudi/Used-Car-Recommendation) |
 
 | 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/AravindBethapudi/Falcon) | 🏭 [Retail Demand Forecasting](https://github.com/AravindBethapudi/Retail-Forecasting) |  
 | :-:| :-:|  
