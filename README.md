@@ -120,7 +120,7 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 | 🚀 [Chronic Disease Prediction](https://github.com/AravindBethapudi/chronic-disease-prediction) | 🎯 [Personalized Fitness Planner](https://github.com/AravindBethapudi/personalized-fitness-planner) |  
 | :-:| :-:|  
-| [<img src = "https://github.com/AravindBethapudi/chronic-disease-prediction/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/chronic-disease-prediction) | [<img src = "https://github.com/AravindBethapudi/personalized-fitness-planner/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/personalized-fitness-planner) |
+| [<img src = "https://github.com/AravindBethapudi/chronic-disease-prediction/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/chronic-disease-prediction) | [<img src = "https://github.com/AravindBethapudi/personalized-fitness-planner/blob/main/images/project.jpg" width = 500 height = 300/>](https://huggingface.co/spaces/aravindbethapudi2017/Personalized-Fitness-Planner) |
 
 | 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/AravindBethapudi/Falcon) | 🏭 [Retail Demand Forecasting](https://github.com/AravindBethapudi/Retail-Forecasting) |  
 | :-:| :-:|  
@@ -134,11 +134,6 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 | :-:| :-:|  
 | [<img src = "https://github.com/AravindBethapudi/Resume-Generator/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Resume-Generator) | [<img src = "https://github.com/AravindBethapudi/Meeting-Minutes-Generator/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
 
----
-
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AravindBethapudi&theme=blue-green)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindBethapudi&layout=compact&theme=tokyonight)  
 
 ---
 
