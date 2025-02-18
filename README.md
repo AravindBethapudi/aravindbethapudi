@@ -120,7 +120,7 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 | 🚗 Used Car Recommendation | 🚀 SpaceX Falcon 9 Landing Prediction |
 | :-: | :-: |
 | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/used%20car.jpg?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/falcon.jpg?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Falcon) |
-| [🔗 View Project](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [🔗 View Project](https://github.com/AravindBethapudi/Falcon) |
+| [🔗 View Project](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [🔗 Try It Live](https://github.com/AravindBethapudi/Falcon) |
 
 ---
 
