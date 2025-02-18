@@ -122,7 +122,7 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 | :-:| :-:|  
 | [<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hagerty.com%2Fmedia%2Fdriving%2F5-new-sports-cars-gas-engine-manual-keep-faith%2F&psig=AOvVaw3cEQd0ymSE-NQ_4UUgu2sW&ust=1739931365042000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiFn82TzIsDFQAAAAAdAAAAABAE" width = 500 height = 300/>](https://github.com/AravindBethapudi/Used-Car-Recommendation) |
 
-| 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/AravindBethapudi/Falcon) | 🏭 [Retail Demand Forecasting](https://github.com/AravindBethapudi/Retail-Forecasting) |  
+| 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/AravindBethapudi/Falcon) |  
 | :-:| :-:|  
 | [<img src = "https://github.com/AravindBethapudi/Falcon/blob/main/images/cover.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Falcon) | [<img src = "https://github.com/AravindBethapudi/Retail-Forecasting/blob/main/images/cover.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Retail-Forecasting) |
 
@@ -130,9 +130,9 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 <h2 align = "center"> 🚀 My Generative AI Projects </h2>
 
-| 🔥 [LLM-based Resume Generator](https://github.com/AravindBethapudi/Resume-Generator) | 🎙️ [Speech-to-Text Meeting Minutes](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |  
+| 🎙️ [Speech-to-Text Meeting Minutes](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |  
 | :-:| :-:|  
-| [<img src = "https://github.com/AravindBethapudi/Resume-Generator/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Resume-Generator) | [<img src = "https://github.com/AravindBethapudi/Meeting-Minutes-Generator/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
+| [<img src = "https://github.com/AravindBethapudi/Meeting-Minutes-Generator/blob/main/images/project.jpg" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
 
 
 ---
