@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Aravind Bethapudi  
 
-<!--
-**AravindBethapudi/aravindbethapudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Data Scientist | Machine Learning Engineer | NLP & LLM Enthusiast**  
+🔹 Passionate about AI, Deep Learning, and Generative AI applications.  
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=aravindbethapudi&color=blue)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Chronic Disease Prediction](https://github.com/yourusername/chronic-disease-prediction)** - ML model predicting disease progression.
+- **[Personalized Fitness Planner](https://your-gradio-app-link)** - AI-based fitness & meal planner.
+
+## 💡 Skills
+💻 **Languages:** Python, SQL, JavaScript  
+🧠 **ML & AI:** TensorFlow, PyTorch, Hugging Face, LangChain  
+☁ **Cloud:** Azure ML, Databricks, Snowflake  
+📊 **Tools:** Power BI, Gradio, FastAPI  
+
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aravindbethapudi&theme=blue-green)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbethapudi&layout=compact&theme=tokyonight)  
+
+## 📫 Contact Me
+📧 **Email:** your.email@example.com  
+🔗 **[LinkedIn](https://linkedin.com/in/yourprofile)**  
+👨‍💻 **[GitHub](https://github.com/aravindbethapudi)**
