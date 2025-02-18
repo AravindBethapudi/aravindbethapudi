@@ -126,11 +126,10 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 <h2 align = "center"> 🚀 My Generative AI Projects </h2>
 
-| 🎙️ [Speech-to-Text Meeting Minutes](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |  
-| [<img src = "
-https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Speech%20to%20text.png?raw=true" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
-| [Personalized-Fitness-Planner](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator)|
-|[<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Fitness.jpg?raw=true" width = 500 height = 300/>>]
+| 🎙️ Speech-to-Text Meeting Minutes | 🏋️ Personalized Fitness Planner |
+| :-: | :-: |
+| [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Speech%20to%20text.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Fitness.jpg?raw=true" width="500" height="300"/>](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) |
+| [🔗 View Project](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) | [🔗 Try It Live](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) |
 
 
 ---
