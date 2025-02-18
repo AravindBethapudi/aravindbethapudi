@@ -115,14 +115,12 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 
 ---
-
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2>
 
-| 🚀 [Used Car Recommendation](https://github.com/AravindBethapudi/Used-Car-Recommendation) | 
-| [<img src = "https://github.com/AravindBethapudi/aravindbethapudi/blob/main/used%20car.jpg?raw=true" width = 500 height = 300/>](https://github.com/AravindBethapudi/Used-Car-Recommendation) |
-
-| 🚀 [SpaceX Falcon 9 Landing Prediction](https://github.com/AravindBethapudi/Falcon) |    
-| [<img src = "https://github.com/AravindBethapudi/aravindbethapudi/blob/main/falcon.jpg?raw=true" width = 500 height = 300/>](https://github.com/AravindBethapudi/Falcon) |
+| 🚗 Used Car Recommendation | 🚀 SpaceX Falcon 9 Landing Prediction |
+| :-: | :-: |
+| [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/used%20car.jpg?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/falcon.jpg?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Falcon) |
+| [🔗 View Project](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [🔗 View Project](https://github.com/AravindBethapudi/Falcon) |
 
 ---
 
@@ -130,9 +128,7 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 | 🎙️ [Speech-to-Text Meeting Minutes](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |  
 | :-:| :-:|  
-| [<img src = "
-https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Fitness.jpg?raw=true
-" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
+| [<img src = "https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Fitness.jpg?raw=true" width = 500 height = 300/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) |
 
 
 ---
