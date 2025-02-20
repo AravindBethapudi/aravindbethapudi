@@ -129,7 +129,12 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 | 🎙️ Speech-to-Text Meeting Minutes | 🏋️ Personalized Fitness Planner |
 | :-: | :-: |
 | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Speech%20to%20text.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Fitness.jpg?raw=true" width="500" height="300"/>](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) |
-| [🔗 Try It Live](https://github.com/AravindBethapudi/Meeting-Minutes-Generator) | [🔗 Try It Live](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) |
+| [🔗 Try It Live](https://huggingface.co/spaces/aravindbethapudi2017/meeting-minutes-generator) | [🔗 Try It Live](https://huggingface.co/spaces/aravindbethapudi2017/Personalized-Fitness-Planner) |
+
+| 🌐 Website Summarizer | 🖥️ Multi-LLM Code Explainer |
+| :-: | :-: |
+| [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Code%20Explainer.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Website-Summarizer) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Code%20Explainer.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Multi-LLM-Code-Explainer) |
+| [🔗 View Project](https://huggingface.co/spaces/aravindbethapudi2017/Website-Summarizer) | [🔗 View Project](https://huggingface.co/spaces/aravindbethapudi2017/Multi_LLM_Code_Explainer) |
 
 
 ---
