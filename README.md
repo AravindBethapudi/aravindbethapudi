@@ -133,7 +133,7 @@ I love **exploring AI-driven solutions for real-world problems** and am always e
 
 | 🌐 Website Summarizer | 🖥️ Multi-LLM Code Explainer |
 | :-: | :-: |
-| [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Code%20Explainer.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Website-Summarizer) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Code%20Explainer.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Multi-LLM-Code-Explainer) |
+| [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/website.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Website-Summarizer) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/Code%20Explainer.png?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Multi-LLM-Code-Explainer) |
 | [🔗 View Project](https://huggingface.co/spaces/aravindbethapudi2017/Website-Summarizer) | [🔗 View Project](https://huggingface.co/spaces/aravindbethapudi2017/Multi_LLM_Code_Explainer) |
 
 
