@@ -3,8 +3,7 @@
   Hi there, I'm Aravind Bethapudi 👋
 </h1>
 
-I'm passionate about **Machine Learning, Deep Learning, NLP, Large Language Models (LLMs), and Generative AI**.  
-I love **exploring AI-driven solutions for real-world problems** and am always excited to **learn and share new projects**!
+Agentic AI Engineer | Building multi-agent systems with LangGraph & LangChain | Azure OpenAI | $1.9M impact @ CVS Health | Open to collaborations on production-grade LLM workflows.
 
 ---
 
