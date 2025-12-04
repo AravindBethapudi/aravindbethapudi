@@ -10,7 +10,7 @@ Agentic AI Engineer | Building multi-agent systems with LangGraph & LangChain | 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 🔭 **Master's in Data Science** from **University of North Texas** | **Bachelor's from IIT-BHU**  
-🔭 **4+ years of experience** in **Data Science,AI,Agentic AI Machine Learning, and Deep Learning**  
+🔭 **5+ years of experience** in **Data Science,AI,Agentic AI Machine Learning, and Deep Learning**  
 🔭 **Currently working as a Data Scientist at CVS Health**  
 🔭 Expertise in **AI for Healthcare & Retail, Predictive Modeling, and Cloud Computing**  
 
